@@ -1,1 +1,1 @@
-# Association Analysis Catalog Cross Selling
+# Association Analysis - Catalog Cross Selling
