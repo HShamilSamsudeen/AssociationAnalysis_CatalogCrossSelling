@@ -1,0 +1,26 @@
+,antecedents,consequents,support,confidence,lift,leverage
+25,"frozenset({'Housewares Division', 'Novelty Gift Division'})",frozenset({'Personal Electronics Division'}),0.10784313725490197,0.7997032640949554,1.7110089528880938,0.044814164161062583
+28,"frozenset({'Jewelry Division', 'Personal Electronics Division'})",frozenset({'Housewares Division'}),0.13205282112845138,0.668693009118541,1.6990989626713107,0.0543334981051244
+26,"frozenset({'Personal Electronics Division', 'Novelty Gift Division'})",frozenset({'Housewares Division'}),0.10784313725490197,0.6378698224852072,1.6207795489481778,0.041305317645265405
+34,"frozenset({'Novelty Gift Division', 'Health Products Division'})",frozenset({'Personal Electronics Division'}),0.16906762705082032,0.743183817062445,1.5900824990060358,0.06274130300379453
+11,frozenset({'Novelty Gift Division'}),frozenset({'Personal Electronics Division'}),0.16906762705082032,0.743183817062445,1.5900824990060358,0.06274130300379453
+29,"frozenset({'Housewares Division', 'Personal Electronics Division'})",frozenset({'Jewelry Division'}),0.13205282112845138,0.5607476635514018,1.5709735551737143,0.04799486821539341
+20,"frozenset({'Novelty Gift Division', 'Health Products Division'})",frozenset({'Housewares Division'}),0.13485394157663066,0.592788038698329,1.5062301054469995,0.04532317128532086
+3,frozenset({'Novelty Gift Division'}),frozenset({'Housewares Division'}),0.13485394157663066,0.592788038698329,1.5062301054469995,0.04532317128532086
+27,"frozenset({'Jewelry Division', 'Housewares Division'})",frozenset({'Personal Electronics Division'}),0.13205282112845138,0.677618069815195,1.4498009901268598,0.04096940897207221
+23,"frozenset({'Jewelry Division', 'Health Products Division'})",frozenset({'Housewares Division'}),0.1948779511804722,0.5459641255605381,1.3872540414598726,0.054400471673263145
+4,frozenset({'Jewelry Division'}),frozenset({'Housewares Division'}),0.1948779511804722,0.5459641255605381,1.3872540414598726,0.054400471673263145
+31,"frozenset({'Garden Division', 'Health Products Division'})",frozenset({'Personal Electronics Division'}),0.16326530612244897,0.5999999999999999,1.2837328767123284,0.0360851823722686
+10,frozenset({'Garden Division'}),frozenset({'Personal Electronics Division'}),0.16326530612244897,0.5999999999999999,1.2837328767123284,0.0360851823722686
+15,"frozenset({'Personal Electronics Division', 'Health Products Division'})",frozenset({'Housewares Division'}),0.23549419767907162,0.5038527397260274,1.2802521571686247,0.05155059222568578
+1,frozenset({'Housewares Division'}),frozenset({'Personal Electronics Division'}),0.23549419767907162,0.5983731570920183,1.2802521571686247,0.05155059222568578
+2,frozenset({'Personal Electronics Division'}),frozenset({'Housewares Division'}),0.23549419767907162,0.5038527397260274,1.2802521571686247,0.05155059222568578
+13,"frozenset({'Housewares Division', 'Health Products Division'})",frozenset({'Personal Electronics Division'}),0.23549419767907162,0.5983731570920183,1.2802521571686247,0.05155059222568578
+37,"frozenset({'Jewelry Division', 'Health Products Division'})",frozenset({'Personal Electronics Division'}),0.19747899159663865,0.5532511210762332,1.1837110886725228,0.03064859397140207
+12,frozenset({'Jewelry Division'}),frozenset({'Personal Electronics Division'}),0.19747899159663865,0.5532511210762332,1.1837110886725228,0.03064859397140207
+6,frozenset({'Personal Electronics Division'}),frozenset({'Health Products Division'}),0.4673869547819128,1.0,1.0,0.0
+7,frozenset({'Garden Division'}),frozenset({'Health Products Division'}),0.272108843537415,1.0,1.0,0.0
+5,frozenset({'Automotive Division'}),frozenset({'Health Products Division'}),0.13485394157663066,1.0,1.0,0.0
+8,frozenset({'Novelty Gift Division'}),frozenset({'Health Products Division'}),0.22749099639855944,1.0,1.0,0.0
+9,frozenset({'Jewelry Division'}),frozenset({'Health Products Division'}),0.3569427771108443,1.0,1.0,0.0
+19,"frozenset({'Housewares Division', 'Novelty Gift Division'})",frozenset({'Health Products Division'}),0.13485394157663066,1.0,1.0,0.0
